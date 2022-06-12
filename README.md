@@ -1,4 +1,7 @@
-### Hi there 👋 
+### Hi there 👋 we're Market Maker Lite and we're inventing the modern investment research platform
+
+
+<!--
 <h2 align="left" id="technology">Technology Used</h2>
 <table align="center">
   <tr>
@@ -48,10 +51,9 @@
     </td>
   </tr>
   <tr>
-</tr>
-    
+</tr> 
 </table>
-
+-->
 
 
 
@@ -59,9 +61,7 @@
 
 <!--
 **MarketMakerLite/MarketMakerLite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
