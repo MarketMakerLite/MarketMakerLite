@@ -1,25 +1,12 @@
 ### Hi there 👋 
-<h2 align="left" id="technology">Favorite Tech</h2>
-> Tools, languages, and environments I enjoy working with.
+<h2 align="left" id="technology">Technology Used</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#technology">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48"        alt="JavaScript" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#technology">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C Lang
     </td>
     <td align="center" width="96">
       <a href="#technology" >
@@ -33,44 +20,14 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#technology">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
     <td align="center" width="96">
       <a href="#technology">
         <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
-     <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
   </tr>
    <tr>
-    <td align="center" width="96">
-      <a href="#technology">
-        <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" width="48" height="48" alt="HEROKU" />
-      </a>
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-      <a href="#technology">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
     <td align="center" width="96">
       <a href="#technology">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="45" height="45" alt="AWS" />
@@ -89,45 +46,8 @@
       </a>
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <a href="#technology">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-     <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="48" height="48" alt="SQLite" />
-      </a>
-      <br>SQLite
-    </td>
-          <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/bitbucket-logo-png-transparent.png" width="48" height="48" alt="Bitbucket" />
-      </a>
-      <br>Bitbucket
-    </td>
-             <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://www.clipartmax.com/png/middle/54-543594_automation-logo-building-clip-art-automation-black-and-white.png" width="48" height="48" alt="Automation" />
-      </a>
-      <br>Automation
-    </td>
   </tr>
-    <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://stocksonfire.in/wp-content/uploads/2018/01/algo-trading.png" width="48" height="48" alt="AlgoTrading" />
-      </a>
-      <br>AlgoTrading
-    </td>
-    <td align="center" width="96"> 
-      <a href="#technology" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
   <tr>
-    
 </tr>
     
 </table>
