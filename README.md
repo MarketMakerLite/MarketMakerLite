@@ -1,5 +1,6 @@
-### Hi there 👋 we're Market Maker Lite and we're developing a modern investment research platform
+### Hi there 👋 we're developing a modern investment research platform
 
+[Market Maker Lite](https://marketmakerlite.com)
 
 <!--
 <h2 align="left" id="technology">Technology Used</h2>
