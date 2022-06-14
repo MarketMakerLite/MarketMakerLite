@@ -1,4 +1,4 @@
-### Hi there 👋 we're developing a modern investment research platform
+### Hi there 👋 we're developing the world's best investment research platform
 
 [Market Maker Lite](https://marketmakerlite.com)
 
