@@ -1,4 +1,4 @@
-### Hi there 👋 we're Market Maker Lite and we're inventing the modern investment research platform
+### Hi there 👋 we're Market Maker Lite and we're developing a modern investment research platform
 
 
 <!--
