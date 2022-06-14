@@ -1,6 +1,6 @@
 ### Hi there 👋 we're developing the world's best investment research platform
 
-[Market Maker Lite](https://marketmakerlite.com)
+[https://marketmakerlite.com](https://marketmakerlite.com)
 
 <!--
 <h2 align="left" id="technology">Technology Used</h2>
