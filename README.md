@@ -1,6 +1,4 @@
-### Hi there 👋 we're developing the world's best investment research platform
-
-[https://marketmakerlite.com](https://marketmakerlite.com)
+### Nice to meet you!
 
 <!--
 <h2 align="left" id="technology">Technology Used</h2>
